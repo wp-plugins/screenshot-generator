@@ -3,7 +3,7 @@ Contributors: lassebunk
 Tags: screenshot, screendump, phantomjs, social, preview
 Requires at least: 4.0.0
 Tested up to: 4.1.1
-Stable tag: 0.1.4
+Stable tag: 0.1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,7 +47,7 @@ If you want to retrieve the screenshot manually, you can do so inside a post:
    * **Mac:**
 
      `
-     brew install phantomjs
+     $ brew install phantomjs
      `
 
      Or if this fails, [download from here](https://github.com/eugene1g/phantomjs/releases).
